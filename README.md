@@ -14,6 +14,14 @@
       </li>
     </ul>
   </li>
+  
+  <li> :large_orange_diamond: Semester 2
+    <ul style="list-style-type:none">
+      <li> :small_blue_diamond:
+        <a href="https://github.com/teodoraalexandra/GT"> Game Theory </a>
+      </li>
+    </ul>
+  </li>
    
 </ul>
 
